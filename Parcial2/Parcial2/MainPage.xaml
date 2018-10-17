@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Parcial2"
+             x:Class="Parcial2.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Juego Triqui" ></Label>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="btn00" ClassId="btn00" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="1" Grid.Column="0"/>
+                <Button x:Name="btn01" ClassId="btn01" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="1" Grid.Column="1"/>
+                <Button x:Name="btn02" ClassId="btn02"  Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="1" Grid.Column="2"/>
+
+                <Button x:Name="btn10" ClassId="btn10" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="2" Grid.Column="0"/>
+                <Button x:Name="btn11" ClassId="btn11" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="2" Grid.Column="1"/>
+                <Button x:Name="btn12" ClassId="btn12" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="2" Grid.Column="2"/>
+
+                <Button x:Name="btn20" ClassId="btn20" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="3" Grid.Column="0"/>
+                <Button x:Name="btn21" ClassId="btn21" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="3" Grid.Column="1"/>
+                <Button x:Name="btn22" ClassId="btn22" Text="-" BackgroundColor="Black" TextColor="White" Clicked="btnClicked" Grid.Row="3" Grid.Column="2"/>
+            </Grid>
+            <Label x:Name="lblInfo" Text="Human's turn" ></Label>
+
+            <Label x:Name="lblHuman" Text="Human: 0" ></Label>
+            <Label x:Name="lblTies" Text="Ties: 0" ></Label>
+            <Label x:Name="lblAndroid" Text="Android: 0" ></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

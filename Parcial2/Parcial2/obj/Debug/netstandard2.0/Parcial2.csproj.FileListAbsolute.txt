@@ -1,0 +1,24 @@
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\bin\Debug\netstandard2.0\Parcial2.deps.json
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\bin\Debug\netstandard2.0\Parcial2.dll
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\bin\Debug\netstandard2.0\Parcial2.pdb
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.csprojAssemblyReference.cache
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.AssemblyInfoInputs.cache
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.AssemblyInfo.cs
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.dll
+C:\Users\RaulMarz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.pdb
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\bin\Debug\netstandard2.0\Parcial2.deps.json
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\bin\Debug\netstandard2.0\Parcial2.dll
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\bin\Debug\netstandard2.0\Parcial2.pdb
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.csprojAssemblyReference.cache
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.AssemblyInfoInputs.cache
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.AssemblyInfo.cs
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.dll
+C:\Users\RaulMarz\Documents\GitHub\XamarinTriqui\Parcial2\Parcial2\obj\Debug\netstandard2.0\Parcial2.pdb
